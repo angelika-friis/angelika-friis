@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi, I’m Angelika 👋</h1>
 
-<!--
-**angelika-friis/angelika-friis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Fullstack dev with focus on frontend • Web & App • Security-focused  
+<br/>
+Swedish & English
+<br/>
+Graduating <strong>June 2026</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmluNGd0MmFjc25odnlpb3RyOXFvMnA5ZWU5MHBpcDhpNGNmOW1mcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="380"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+
+#### What I use the most
+
+<p>
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css"/>
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git"/>
+</p>
+
+#### Experience in
+<p>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs"/>
+  <img src="https://img.shields.io/badge/MUI-0D1117?style=for-the-badge&logo=mui"/>
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker"/>
+</p>
+
+#### Currently I'm learning
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin"/>
+  <img src="https://img.shields.io/badge/AndroidStudio-0D1117?style=for-the-badge&logo=androidstudio"/>
+</p>
