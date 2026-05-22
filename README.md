@@ -19,6 +19,7 @@ Graduating <strong>June 2026</strong>
 <p>
   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css"/>
   <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js"/>
@@ -36,6 +37,8 @@ Graduating <strong>June 2026</strong>
   <img src="https://img.shields.io/badge/MUI-0D1117?style=for-the-badge&logo=mui"/>
   <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker"/>
   <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57" />
+  <img src="https://img.shields.io/badge/Blazor-0D1117?style=for-the-badge&logo=blazor&logoColor=512BD4" />
+  <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
 </p>
 
 ## Portfolio
