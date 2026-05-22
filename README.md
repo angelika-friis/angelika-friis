@@ -9,7 +9,7 @@ Graduating <strong>June 2026</strong>
 </p>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmluNGd0MmFjc25odnlpb3RyOXFvMnA5ZWU5MHBpcDhpNGNmOW1mcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="380"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmluNGd0MmFjc25odnlpb3RyOXFvMnA5ZWU5MHBpcDhpNGNmOW1mcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="300"/>
 </p>
 
 ## Tech stack
@@ -25,6 +25,8 @@ Graduating <strong>June 2026</strong>
   <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb"/>
   <img src="https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin"/>
+  <img src="https://img.shields.io/badge/AndroidStudio-0D1117?style=for-the-badge&logo=androidstudio"/>
 </p>
 
 #### Experience in
@@ -33,10 +35,8 @@ Graduating <strong>June 2026</strong>
   <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs"/>
   <img src="https://img.shields.io/badge/MUI-0D1117?style=for-the-badge&logo=mui"/>
   <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57" />
 </p>
 
-#### Currently I'm learning
-<p>
-  <img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin"/>
-  <img src="https://img.shields.io/badge/AndroidStudio-0D1117?style=for-the-badge&logo=androidstudio"/>
-</p>
+## Portfolio
+Ceckout my portfolio: [https://angelikasportfolio.netlify.app](https://angelikasportfolio.netlify.app)
