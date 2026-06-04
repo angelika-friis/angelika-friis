@@ -42,4 +42,4 @@ Graduating <strong>June 2026</strong>
 </p>
 
 ## Portfolio
-Ceck out my portfolio: [https://angelikasportfolio.netlify.app](https://angelikasportfolio.netlify.app)
+Check out my portfolio: [https://angelikasportfolio.netlify.app](https://angelikasportfolio.netlify.app)
