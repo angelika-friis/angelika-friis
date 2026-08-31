@@ -1,11 +1,12 @@
 <h1 align="center">Hi, I’m Angelika 👋</h1>
 
 <p align="center">
-Fullstack dev with focus on frontend • Web & App • Security-focused  
+Fullstack dev • Web & App • Security-focused  
 <br/>
 Swedish & English
 <br/>
-Graduating <strong>June 2026</strong>
+<br/>
+<i>Update: I just graduated as "Frontend Developer specialising in web security" 🎉<i>
 </p>
 
 <p align="center">
@@ -38,7 +39,8 @@ Graduating <strong>June 2026</strong>
   <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker"/>
   <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57" />
   <img src="https://img.shields.io/badge/Blazor-0D1117?style=for-the-badge&logo=blazor&logoColor=512BD4" />
-  <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet"/>
+  <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp"/>
 </p>
 
 ## Portfolio
